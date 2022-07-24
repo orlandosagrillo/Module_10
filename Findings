@@ -25,5 +25,8 @@ Visualise and Compare the Results¶
 
 - Question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
-- Answer: Using fewer features to cluster the data using K-Means will have an impact on both the time(during training) and complexity(upon application) along with the behaviour of the algorithm as well. The higher the number of features, the higher amount of information, and the higher the degrees of freedom, which means the higher flexibility when utilising the data. However using more features doesn't necessarily provide more useful information. Therefore, the results may be worst if their is an increase in irrelevant features as they cause higher uncertainity.
+- Answer: Using fewer features to cluster the data using K-Means will have an impact on both the time(during training) and complexity(upon application)
+          along with the behaviour of the algorithm as well. The higher the number of features, the higher amount of information, and the higher the
+          degrees of freedom, which means the higher flexibility when utilising the data. However using more features doesn't necessarily provide more
+          useful information. Therefore, the results may be worst if their is an increase in irrelevant features as they cause higher uncertainity.
 
